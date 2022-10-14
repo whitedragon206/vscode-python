@@ -1810,7 +1810,7 @@
         "arch": "^2.1.0",
         "diff-match-patch": "^1.0.0",
         "fs-extra": "^10.0.1",
-        "glob": "^7.2.0",
+        "glob": "^7.2.3",
         "hash.js": "^1.1.7",
         "iconv-lite": "^0.6.3",
         "inversify": "^5.0.4",
