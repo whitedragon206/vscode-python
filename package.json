@@ -1833,7 +1833,7 @@
         "unicode": "^14.0.0",
         "untildify": "^4.0.0",
         "vscode-debugadapter": "^1.28.0",
-        "vscode-debugprotocol": "^1.28.0",
+        "vscode-debugprotocol": "^1.51.0",
         "vscode-jsonrpc": "8.0.2-next.1",
         "vscode-languageclient": "8.0.2-next.5",
         "vscode-languageserver": "8.0.2-next.5",
