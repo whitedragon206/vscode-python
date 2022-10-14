@@ -1828,7 +1828,7 @@
         "stack-trace": "0.0.10",
         "semver": "^5.5.0",
         "sudo-prompt": "^9.2.1",
-        "tmp": "^0.0.33",
+        "tmp": "^0.2.1",
         "uint64be": "^3.0.0",
         "unicode": "^14.0.0",
         "untildify": "^4.0.0",
